@@ -1,0 +1,2 @@
+export const GET_STORIES = 'GET_STORIES';
+export const GET_STORIES_SUCCESS = 'GET_STORIES_SUCCESS';

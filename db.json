@@ -1,0 +1,40 @@
+{
+  "story": [
+    {
+      "id": 1,
+      "name": "Apples",
+      "description": "Apples are high in fiber, vitamin C, and numerous antioxidants. They are very filling and make the perfect snack if you find yourself hungry between meals.",
+      "uri": "https://res.cloudinary.com/the-roap-trip/image/upload/v1639034370/at2akq4legxlmx9mgzxk.jpg"
+    },
+    {
+      "name": "Banan",
+      "description": "Thanks again for the help with this matter and resolve",
+      "uri": "https://res.cloudinary.com/the-roap-trip/image/upload/v1639034120/rr1cvttdd1rjxrcgbgyw.jpg",
+      "id": 2
+    },
+    {
+      "name": "Lemon AAAA",
+      "description": "This is a Lemon  AAAA",
+      "uri": "https://res.cloudinary.com/the-roap-trip/image/upload/v1639034119/gxpxnf5upumlbndnq4vt.jpg",
+      "id": 3
+    },
+    {
+      "name": "Happy New year",
+      "description": "Thanks for everything in lasy year",
+      "uri": "https://res.cloudinary.com/the-roap-trip/image/upload/v1639030292/t1jzdb5a6119g9zg4tdq.jpg",
+      "id": 4
+    },
+    {
+      "name": "Avocados",
+      "description": "Apples are high in fiber, vitamin C",
+      "uri": "https://res.cloudinary.com/the-roap-trip/image/upload/v1639030291/tfqls31shacahsmvskdx.jpg",
+      "id": 5
+    },
+    {
+      "name": "Oranges",
+      "description": "Oranges are well known for their vitamin c content",
+      "uri": "https://res.cloudinary.com/the-roap-trip/image/upload/v1639030291/tfqls31shacahsmvskdx.jpg",
+      "id": 6
+    }
+  ]
+}
